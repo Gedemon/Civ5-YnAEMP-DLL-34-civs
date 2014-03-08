@@ -5,9 +5,9 @@
     <ProjectGuid>{781f66ee-d4cc-42e7-99c5-5b7911369097}</ProjectGuid>
     <Name>YnAEMP DLL 34 civs</Name>
     <Guid>a905d507-5e59-406a-88cc-aeefbe3ba3f1</Guid>
-    <ModVersion>3</ModVersion>
-    <Stability>Experimental</Stability>
-    <Teaser>34 Civs DLL to use with YnAEMP and  BNW or G+K</Teaser>
+    <ModVersion>5</ModVersion>
+    <Stability>Alpha</Stability>
+    <Teaser>34 Civs DLL to use with YnAEMP or another compatible map</Teaser>
     <Description>34 Civs DLL to use with Yet (not) Another Earth Maps Pack and Brave New World or Gods+Kings. Not compatible with mapscripts. Known bug: only 22 civs will have a 3D diploscreen, the 12 others will be blank (you can get a 2D static replacement by using the YnAEMP Leader fix mods for G+K or BNW)</Description>
     <Authors>Gedemon</Authors>
     <SpecialThanks>whoward69</SpecialThanks>
